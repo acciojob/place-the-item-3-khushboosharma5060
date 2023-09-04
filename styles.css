@@ -3,7 +3,7 @@
 .holder {
   display: flex;
   flex-wrap: wrap; /* This allows items to wrap to the next row */
-  justify-content: space-between; /* This evenly distributes items in a row */
+  justify-content: space-evenly; /* This evenly distributes items in a row */
 }
 
 .item {
